@@ -5,5 +5,5 @@ document.addEventListener("DOMContentLoaded", function() {
     setTimeout(function() {
         preloader.style.display = 'none';
         content.style.display = 'block';
-    }, 8000);
+    }, 5000);
 });
